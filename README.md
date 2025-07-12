@@ -1,6 +1,6 @@
-In this project, I used the image detection program OpenCV and Arduino to detect my face and automatically track and aim. Two servos were connected to the system, with face detection handled by the camera. The coordinates were sent to the Arduino via USB, which controlled the servos.
+In this project, I used OpenCV and Arduino to detect my face and automatically control servo motors for tracking. Two servos were connected to the system, and face detection was handled by the camera. The coordinates were sent to the Arduino via USB, which controlled the servos. I used the Python libraries cv2 and pyserial for image processing and USB communication.
+To complete this project, I used the Python libraries cv2 and pyserial (for USB communication).  
 
-To complete this project, I used the Python libraries cv2 and pyserial (for USB communication).
 
 If you want to learn more about opencv this is the video that I learned from: https://youtube.com/playlist?list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&si=GuLHbswOZBzFM5Ea 
 

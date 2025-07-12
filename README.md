@@ -7,3 +7,4 @@ If you want to learn more about opencv this is the video that I learned from: ht
 
 https://github.com/user-attachments/assets/1da47b5b-3357-4113-82b1-5a14029940ec
 
+<img width="1500" height="794" alt="image" src="https://github.com/user-attachments/assets/d374d960-a4b7-42fb-9aa2-eb5696a936c8" />
